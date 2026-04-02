@@ -1,6 +1,6 @@
 # Hi 👋, I'm iZoy
 
-- 🔭 I'm currently working on **owl-guard**
+- 🔭 I'm currently working on **owl-guard** and **ArchSpine**
 
 - 📫 How to reach me **izoyin27@gmail.com**
 
